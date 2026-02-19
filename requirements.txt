@@ -1,0 +1,4 @@
+flask
+google-generativeai
+python-dotenv
+tenacity  # Add this for retries
