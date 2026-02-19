@@ -1,4 +1,6 @@
 flask
-google-generativeai
+flask-cors
+groq
 python-dotenv
-tenacity  # Add this for retries
+tenacity
+gunicorn
