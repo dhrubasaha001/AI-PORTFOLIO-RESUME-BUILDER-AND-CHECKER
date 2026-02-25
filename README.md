@@ -32,7 +32,7 @@
 1. **Clone the repository:**
 ```bash
 git clone https://github.com/dhrubasaha001/AI-PORTFOLIO-RESUME-BUILDER-AND-CHECKER
-cd careerbot-ai-pro
+cd AI-PORTFOLIO-RESUME-BUILDER-AND-CHECKER
 
 ```
 
@@ -108,4 +108,5 @@ This project is optimized for deployment on **Render**.
 * [ ] **User History:** Database integration to store and edit previous resumes.
 
 ---
+
 
